@@ -6,7 +6,7 @@ fonctionnent… et surtout comment elles cassent.
 - 🔭 Mon dernier projet est sur [**CyberVeille**](https://github.com/elpokito/appcyberveille) : un podcast de veille cyber en
   français, généré automatiquement chaque nuit, que j'écoute dans le métro
 - 🌱 J'apprends le pentest web, l'analyse réseau et l'automatisation de la sécurité dans les pipelines CI/CD
-- 🎯 Je cherche un **stage ou une alternance** en cybersécurité : SOC, pentest, DevSecOps… je suis ouvert à tout !
+- 🎯 Je cherche un **stage et une alternance** en cybersécurité pour 2027 : SOC, pentest, DevSecOps… je suis ouvert à tout !
 - 👯 Partant pour des CTF, des labs ou des projets open source à plusieurs
 - 💬 Parlez-moi de veille cyber, d'automatisation ou de vos meilleurs write-ups
 - 🏅 Top 2% TryHackMe | Certifié Cisco Junior Cybersecurity Analyst
