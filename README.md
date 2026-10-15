@@ -15,7 +15,7 @@ fonctionnent… et surtout comment elles cassent.
 
 ### 🧰 Ma boîte à outils
 
-**Offensif & web** : Burp Suite · OWASP ZAP · sqlmap · Metasploit · Hydra · John the Ripper · Gobuster
+**Offensif & web** : Burp Suite · sqlmap · Metasploit · Hydra · John the Ripper · Gobuster
 
 **Réseau** : Wireshark · Nmap · tcpdump · Netcat
 
